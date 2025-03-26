@@ -21,3 +21,13 @@ Algorithm File
     - styles
     - index.html
 
+
+    # Edgecase testing:
+
+    1. 2 boids - with velocities not in min aor max speed levels
+        a. check if seperation works
+        b. check cohesion and alignment
+    2. 2 boids - with velocites closer to min and max speed
+        a. check speed limit
+    3. check for more boids
+
