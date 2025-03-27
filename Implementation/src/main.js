@@ -1,4 +1,4 @@
-import { Boid } from "./src/Boid.js";
+import { Boid } from "Boid.js";
 
 function randomize(n)
 {
@@ -113,3 +113,5 @@ function controller()
 }
 
 controller();
+
+console.log("Hellow, World");

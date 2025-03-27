@@ -7,4 +7,4 @@ class Boid {
     }
 }
 
-export { Boid }
+export { Boid };
